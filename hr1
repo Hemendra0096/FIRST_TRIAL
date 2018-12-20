@@ -1,0 +1,9 @@
+Ls  
+Ls -ltr
+echo "Enter Name"
+Read Name
+echo "Enter Password"
+Stty -echo
+read  pass
+stty echo
+echo "THANk YOU"
